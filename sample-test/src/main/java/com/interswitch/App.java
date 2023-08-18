@@ -26,6 +26,7 @@ public class App
                         2 to subtract the numbers
                         3 to divide the numbers
                         4 to multiply the numbers
+                        5 to enter fake number github
                         """);
                 choice = input.nextInt();
                 switch (choice) {
